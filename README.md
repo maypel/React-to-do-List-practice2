@@ -1,2 +1,2 @@
-# React-to-do-List-practice2
+# React-to-do-List-practice
 Created with CodeSandbox
